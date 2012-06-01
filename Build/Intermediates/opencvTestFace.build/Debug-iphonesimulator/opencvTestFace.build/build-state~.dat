@@ -1,0 +1,241 @@
+TopencvTestFace
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/Info.plist opencvTestFace/opencvTestFace-Info.plist
+cProcessPCH /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/PrecompiledHeaders/opencvTestFace-Prefix-ebshavyaodqsaxczrraivndhhtcd/opencvTestFace-Prefix.pch.pth opencvTestFace/opencvTestFace-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/ViewController.o /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/main.o /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/AppDelegate.o /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace normal i386
+cGenerateDSYMFile /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app.dSYM /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace
+cCopyStringsFile /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/en.lproj/InfoPlist.strings opencvTestFace/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/en.lproj/MainStoryboard.storyboard
+cTouch /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FB9495F0000000000244490
+t1337543007
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FB949600000000000353830
+t1337543008
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FB9496A0000000000905E40
+t1337543018
+s9461312
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/PrecompiledHeaders/opencvTestFace-Prefix-ebshavyaodqsaxczrraivndhhtcd/opencvTestFace-Prefix.pch.pth
+t2
+s0
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/opencvTestFace.LinkFileList
+c000000004FC88A3500000000000001E5
+t1338542645
+s485
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app
+t2
+s0
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app.dSYM
+t2
+s0
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/Info.plist
+t2
+s0
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/PkgInfo
+t2
+s0
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace
+t2
+s0
+
+N/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/AppDelegate.m
+c000000004FC87E9C0000000000000805
+t1338539676
+s2053
+
+N/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.m
+c000000004FC88A330000000000000A7D
+t1338542643
+s2685
+
+N/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/en.lproj/InfoPlist.strings
+c000000004FC87E9C000000000000002D
+t1338539676
+s45
+
+N/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/en.lproj/MainStoryboard.storyboard
+c000000004FC885170000000000000FB9
+t1338541335
+s4025
+
+N/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/main.m
+c000000004FC87E9C000000000000015F
+t1338539676
+s351
+
+N/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/opencvTestFace-Prefix.pch
+c000000004FC87E9C000000000000014B
+t1338539676
+s331
+
+NopencvTestFace/opencvTestFace-Info.plist
+c000000004FC87E9C000000000000050B
+t1338539676
+s1291
+
+CBuild AST from /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/AppDelegate.m
+r0
+
+CBuild AST from /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.m
+r0
+
+CBuild AST from /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies01e0dcb5c178b541^4da3f5b5c178b541^---0#1#0#--18"Check dependencies36"1FF71B6D-7D9F-427B-A532-AEC46E169B47-
+
+CCompileC Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/AppDelegate.o /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360235446.728033
+e360235446.815782
+r1
+xCompileC
+xBuild/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/AppDelegate.o
+x/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/AppDelegate.m1424beb6c178b541^6a6dd2b6c178b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/AppDelegate.m0000000000000000^3657"CompileC Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/AppDelegate.o opencvTestFace/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/millan/Documents/Xcode/opencvTestFace    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-generated-files.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-own-target-headers.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-all-target-headers.hmap -iquote /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-project-headers.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/include -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/DerivedSources/i386 -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/DerivedSources -F/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator -include /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/PrecompiledHeaders/opencvTestFace-Prefix-ebshavyaodqsaxczrraivndhhtcd/opencvTestFace-Prefix.pch -MMD -MT dependencies -MF /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/AppDelegate.dia -c /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/AppDelegate.m -o /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/AppDelegate.o36"F02C9134-26A5-4DEB-9552-11B528885E7A-
+
+CCompileC Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/ViewController.o /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360235446.670844
+e360235446.768139
+r1
+xCompileC
+xBuild/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/ViewController.o
+x/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.m944aacb6c178b541^eeccc4b6c178b541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.m0000000000000000^3675"CompileC Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/ViewController.o opencvTestFace/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/millan/Documents/Xcode/opencvTestFace    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-generated-files.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-own-target-headers.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-all-target-headers.hmap -iquote /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-project-headers.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/include -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/DerivedSources/i386 -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/DerivedSources -F/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator -include /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/PrecompiledHeaders/opencvTestFace-Prefix-ebshavyaodqsaxczrraivndhhtcd/opencvTestFace-Prefix.pch -MMD -MT dependencies -MF /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/ViewController.dia -c /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.m -o /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/ViewController.o36"A08E4915-B256-4626-A208-99E0AF3E2ECB-
+
+CCompileC Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/main.o /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360235446.671009
+e360235446.726238
+r1
+xCompileC
+xBuild/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/main.o
+x/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/main.med45acb6c178b541^1e16bab6c178b541^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/main.m0000000000000000^3615"CompileC Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/main.o opencvTestFace/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/millan/Documents/Xcode/opencvTestFace    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-generated-files.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-own-target-headers.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-all-target-headers.hmap -iquote /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-project-headers.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/include -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/DerivedSources/i386 -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/DerivedSources -F/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator -include /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/PrecompiledHeaders/opencvTestFace-Prefix-ebshavyaodqsaxczrraivndhhtcd/opencvTestFace-Prefix.pch -MMD -MT dependencies -MF /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/main.dia -c /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/main.m -o /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/main.o36"45693B4A-C6E4-4157-8D9D-27F7025991AB-
+
+CCompileStoryboard /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/en.lproj/MainStoryboard.storyboard
+s360235447.171614
+e360235448.806687
+r1
+xCompileStoryboard
+x/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/en.lproj/MainStoryboard.storyboard
+o2012-06-01 17:24:08.325 Interface Builder Cocoa Touch Tool[600:13103] CFPreferences: user home directory at file://localhost/Users/millan/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"CompileStoryboard opencvTestFace/en.lproj/MainStoryboard.storyboard11002cb7c178b541^d995ceb8c178b541^-240"2012-06-01 17:24:08.325 Interface Builder Cocoa Touch Tool[600:13103] CFPreferences: user home directory at file://localhost/Users/millan/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/en.lproj/MainStoryboard.storyboard0000000000000000^947"CompileStoryboard opencvTestFace/en.lproj/MainStoryboard.storyboard    cd /Users/millan/Documents/Xcode/opencvTestFace    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/en.lproj/MainStoryboard.storyboardc /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"2F726B1B-F5C9-4D9E-BDFB-8EE6B561DC90-
+
+CCopyStringsFile /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/en.lproj/InfoPlist.strings opencvTestFace/en.lproj/InfoPlist.strings
+s360235447.168700
+e360235447.225258
+r1
+xCopyStringsFile
+x/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/en.lproj/InfoPlist.strings
+xopencvTestFace/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy opencvTestFace/en.lproj/InfoPlist.strings9e412bb7c178b541^b96d3bb7c178b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/en.lproj/InfoPlist.strings0000000000000000^633"CopyStringsFile Build/Products/Debug-iphonesimulator/opencvTestFace.app/en.lproj/InfoPlist.strings opencvTestFace/en.lproj/InfoPlist.strings    cd /Users/millan/Documents/Xcode/opencvTestFace    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/en.lproj -- opencvTestFace/en.lproj/InfoPlist.strings36"3F05179D-8AE5-4FB8-A73D-051CB708EDBD-
+
+CGenerateDSYMFile /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app.dSYM /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace
+s360235446.994828
+e360235447.156489
+r1
+xGenerateDSYMFile
+x/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app.dSYM
+x/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generating /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app.dSYM41bcfeb6c178b541^637f29b7c178b541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app.dSYM000000000080d041^730"GenerateDSYMFile Build/Products/Debug-iphonesimulator/opencvTestFace.app.dSYM Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace    cd /Users/millan/Documents/Xcode/opencvTestFace    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace -o /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app.dSYM36"3A005E80-75ED-4AA3-ACCB-74CC5C75F26F-
+
+CLd /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace normal i386
+s360235446.835204
+e360235446.983526
+r1
+xLd
+x/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace7e3ad6b6c178b541^b85b06b7c178b541^---0#0#0#--1290"Ld Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace normal i386    cd /Users/millan/Documents/Xcode/opencvTestFace    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator -F/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator -filelist /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/Objects-normal/i386/opencvTestFace.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/opencvTestFace36"694F6392-0FC0-403C-84B2-546956A1F6CF-
+
+CProcessInfoPlistFile /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/Info.plist opencvTestFace/opencvTestFace-Info.plist
+s360235445.954942
+e360235445.963043
+r1
+xProcessInfoPlistFile
+x/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/Info.plist
+xopencvTestFace/opencvTestFace-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Process opencvTestFace/opencvTestFace-Info.plistb29cf4b5c178b541^e99af9b5c178b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/opencvTestFace-Info.plist0000000000000000^744"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/opencvTestFace.app/Info.plist opencvTestFace/opencvTestFace-Info.plist    cd /Users/millan/Documents/Xcode/opencvTestFace    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility opencvTestFace/opencvTestFace-Info.plist -genpkginfo /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app/Info.plist36"C02CB3A0-EDEA-4D05-8A86-B20DFB85A46E-
+
+CProcessPCH /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/PrecompiledHeaders/opencvTestFace-Prefix-ebshavyaodqsaxczrraivndhhtcd/opencvTestFace-Prefix.pch.pth opencvTestFace/opencvTestFace-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360235445.979743
+e360235446.660928
+r1
+xProcessPCH
+x/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/PrecompiledHeaders/opencvTestFace-Prefix-ebshavyaodqsaxczrraivndhhtcd/opencvTestFace-Prefix.pch.pth
+xopencvTestFace/opencvTestFace-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile opencvTestFace/opencvTestFace-Prefix.pch1119feb5c178b541^6fd9a9b6c178b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/opencvTestFace-Prefix.pch0000000000000000^3524"ProcessPCH Build/Intermediates/PrecompiledHeaders/opencvTestFace-Prefix-ebshavyaodqsaxczrraivndhhtcd/opencvTestFace-Prefix.pch.pth opencvTestFace/opencvTestFace-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/millan/Documents/Xcode/opencvTestFace    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-generated-files.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-own-target-headers.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-all-target-headers.hmap -iquote /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/opencvTestFace-project-headers.hmap -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/include -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/DerivedSources/i386 -I/Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/opencvTestFace.build/Debug-iphonesimulator/opencvTestFace.build/DerivedSources -F/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/PrecompiledHeaders/opencvTestFace-Prefix-ebshavyaodqsaxczrraivndhhtcd/opencvTestFace-Prefix.pch.dia -c /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/opencvTestFace-Prefix.pch -o /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/PrecompiledHeaders/opencvTestFace-Prefix-ebshavyaodqsaxczrraivndhhtcd/opencvTestFace-Prefix.pch.pth -MMD -MT dependencies -MF /Users/millan/Documents/Xcode/opencvTestFace/Build/Intermediates/PrecompiledHeaders/opencvTestFace-Prefix-ebshavyaodqsaxczrraivndhhtcd/opencvTestFace-Prefix.pch.d36"74503550-A983-420A-961B-57FEAE316373-
+
+CProcessPCH /Users/millan/Library/Developer/Xcode/DerivedData/opencvTestFace-dozrtnkhfnxkyycedqfuggxsuaba/Index/PrecompiledHeaders/opencvTestFace-Prefix-hkcojuzlzhausabqlmkagakeofrh_ast/opencvTestFace-Prefix.pch.pth opencvTestFace/opencvTestFace-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app
+s360235448.816977
+e360235448.836261
+r1
+xTouch
+x/Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Touch /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app0933d1b8c178b541^5b23d6b8c178b541^---0#0#0#--432"Touch Build/Products/Debug-iphonesimulator/opencvTestFace.app    cd /Users/millan/Documents/Xcode/opencvTestFace    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/millan/Documents/Xcode/opencvTestFace/Build/Products/Debug-iphonesimulator/opencvTestFace.app36"647EFBB5-F206-4AE7-907E-5697176AC148-
+
