@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.mm \
+  /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.h \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/opencv.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/core/core_c.h \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/core/types_c.h \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/core/core.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/core/version.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/core/operations.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/core/mat.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/flann/miniflann.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/flann/defines.h \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/flann/config.h \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/imgproc/imgproc_c.h \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/imgproc/types_c.h \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/imgproc/imgproc.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/photo/photo.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/photo/photo_c.h \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/video/video.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/video/tracking.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/video/background_segm.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/features2d/features2d.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/objdetect/objdetect.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/calib3d/calib3d.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/ml/ml.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/highgui/highgui_c.h \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/highgui/highgui.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/contrib/contrib.hpp \
+  /Users/millan/OpenCv/2.4.0/include/opencv2/contrib/retina.hpp
