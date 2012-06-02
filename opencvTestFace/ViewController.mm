@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#include "opencv2/opencv.hpp"
+#import <Utilities/Utilities.h>
 
 using namespace cv;
 
@@ -15,7 +15,7 @@ Mat grayImageFromUIImage(UIImage *image) {
     CGImageRef cgImage = image.CGImage;
     int width = CGImageGetWidth(cgImage);
     int height = CGImageGetHeight(cgImage);
-    
+
 //    CGDataProviderRef provider = CGImageGetDataProvider(cgImage);
 //    CFDataRef data = CGDataProviderCopyData(provider);
 //    const UInt8 *imageData = CFDataGetBytePtr(data);
@@ -31,7 +31,7 @@ Mat grayImageFromUIImage(UIImage *image) {
     CGContextDrawImage(context, CGRectMake(0, 0, width, height), cgImage);
     void *imageData = CGBitmapContextGetData(context);
 
-    Mat colorMat(width, height, CV_8UC4, (void*)imageData);
+    Mat colorMat(height, width, CV_8UC4, (void*)imageData, width*4);
     Mat grayMat;
     cvtColor(colorMat, grayMat, CV_RGBA2BGR);
     CGContextRelease(context);
@@ -60,7 +60,14 @@ UIImage *uIImageFromGrayImage(const Mat &mat) {
     return outImage;
 }
 
-@interface ViewController () 
+
+NSString *faceCascadeName = @"haarcascade_frontalface_alt";
+NSString *eyesCascadeName = @"haarcascade_eye_tree_eyeglasses";
+
+@interface ViewController () {
+    CascadeClassifier faceCascade;
+    CascadeClassifier eyesCascade;
+}
 
 @property (strong, nonatomic) UIImagePickerController *imagePickerController;
 - (void)closeImagePicker;
@@ -86,7 +93,16 @@ UIImage *uIImageFromGrayImage(const Mat &mat) {
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSString *faceCascadePath = [[NSBundle mainBundle] pathForResource:faceCascadeName ofType:@"xml"];
+    NSString *eyesCascadePath = [[NSBundle mainBundle] pathForResource:eyesCascadeName ofType:@"xml"];
+    if (!faceCascadePath || !faceCascade.load([faceCascadePath UTF8String])) {
+        NSLog(@"failed loading face cascade classifier!");
+    }
+    if (!eyesCascadePath || !eyesCascade.load([eyesCascadePath UTF8String])) {
+        NSLog(@"failed loading eyes cascade classifier!");
+    }
+    // Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)viewDidUnload
@@ -155,8 +171,38 @@ UIImage *uIImageFromGrayImage(const Mat &mat) {
 }
 
 - (UIImage *)detectFace:(UIImage*)image {
-    Mat mat = grayImageFromUIImage(image);
-    image = uIImageFromGrayImage(mat);
+//    [UIAlertView alertWithMessage:[NSString stringWithFormat:
+//                                   @"ori:%d\ncols:%d\nrows:%d", 
+//                                   image.imageOrientation, 
+//                                   CGImageGetWidth(image.CGImage),
+//                                   CGImageGetHeight(image.CGImage)]];
+    std::vector<cv::Rect> faces;
+    Mat mat = [image mat], gray;
+    cvtColor(mat, gray, CV_RGBA2GRAY);
+    equalizeHist(gray, gray);
+    
+    faceCascade.detectMultiScale(gray, faces, 1.1, 2, 0|CV_HAAR_SCALE_IMAGE, cv::Size(30, 30));
+    
+    // draw faces
+    for (int i = 0; i < faces.size(); i++) {
+        float halfWidth = faces[i].width*0.5;
+        float halfHeight = faces[i].height*0.5;
+        cv::Point center(faces[i].x + halfWidth, faces[i].y + halfHeight);
+        ellipse(mat, center, cv::Size(halfWidth, halfHeight), 0, 0, 360, Scalar(255, 0, 255), 4, 8, 0);
+        
+        cv::Mat faceROI = gray(faces[i]);
+        std::vector<cv::Rect> eyes;
+        //-- In each face, detect eyes
+        eyesCascade.detectMultiScale(faceROI, eyes, 1.1, 2, 0 |CV_HAAR_SCALE_IMAGE, cv::Size(30, 30));
+        for (int j = 0; j < eyes.size(); j++) {
+            cv::Point center(faces[i].x + eyes[j].x + eyes[j].width*0.5, faces[i].y + eyes[j].y + eyes[j].height*0.5); 
+            int radius = cvRound((eyes[j].width + eyes[j].height)*0.25);
+            circle(mat, center, radius, Scalar(255, 0, 0), 4, 8, 0);
+        }
+    }
+    
+    image = [UIImage imageWithMat:mat];
+    
     return image;
 }
 

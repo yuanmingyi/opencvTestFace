@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/main.m \
-  /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/AppDelegate.h
+  /Users/millan/xcode4.3.2/opencvTestFace/opencvTestFace/main.m \
+  /Users/millan/xcode4.3.2/opencvTestFace/opencvTestFace/AppDelegate.h

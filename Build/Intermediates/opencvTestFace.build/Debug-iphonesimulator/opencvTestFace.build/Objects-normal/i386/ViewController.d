@@ -1,6 +1,8 @@
 dependencies: \
-  /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.mm \
-  /Users/millan/Documents/Xcode/opencvTestFace/opencvTestFace/ViewController.h \
+  /Users/millan/xcode4.3.2/opencvTestFace/opencvTestFace/ViewController.mm \
+  /Users/millan/xcode4.3.2/opencvTestFace/opencvTestFace/ViewController.h \
+  /Users/millan/xcode4.3.2/Utilities/Utilities.h \
+  /Users/millan/xcode4.3.2/Utilities/UIImage+TransformCVMat.h \
   /Users/millan/OpenCv/2.4.0/include/opencv2/opencv.hpp \
   /Users/millan/OpenCv/2.4.0/include/opencv2/core/core_c.h \
   /Users/millan/OpenCv/2.4.0/include/opencv2/core/types_c.h \
@@ -26,4 +28,5 @@ dependencies: \
   /Users/millan/OpenCv/2.4.0/include/opencv2/highgui/highgui_c.h \
   /Users/millan/OpenCv/2.4.0/include/opencv2/highgui/highgui.hpp \
   /Users/millan/OpenCv/2.4.0/include/opencv2/contrib/contrib.hpp \
-  /Users/millan/OpenCv/2.4.0/include/opencv2/contrib/retina.hpp
+  /Users/millan/OpenCv/2.4.0/include/opencv2/contrib/retina.hpp \
+  /Users/millan/xcode4.3.2/Utilities/UIAlertView+AlertBox.h
