@@ -177,7 +177,9 @@ NSString *eyesCascadeName = @"haarcascade_eye_tree_eyeglasses";
 //                                   CGImageGetWidth(image.CGImage),
 //                                   CGImageGetHeight(image.CGImage)]];
     std::vector<cv::Rect> faces;
-    Mat mat = [image mat], gray;
+    UIImage *normImage = [image normalizedOrientationImage];
+    //Mat mat = CGImageCreateMat(normImage.CGImage, IplImageTypeRGBA), gray;
+    Mat mat = [normImage mat], gray;
     cvtColor(mat, gray, CV_RGBA2GRAY);
     equalizeHist(gray, gray);
     
